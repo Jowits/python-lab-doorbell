@@ -39,3 +39,5 @@ settings:
 Hi my name is Jowita
 
 new message
+
+new message
